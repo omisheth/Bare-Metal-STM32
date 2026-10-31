@@ -53,3 +53,30 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+# =================================
+# STM32CubeIDE generated files
+# =================================
+
+# Build folders
+**/Debug/
+**/Release/
+
+# Compiled object and dependency files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.cyclo
+*.su
+*.size
+*.lss
+
+# Temporary files
+*.tmp
+*.log
+
+
+
